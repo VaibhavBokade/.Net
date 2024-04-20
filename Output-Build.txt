@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: Database1, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>Database1 -> C:\Users\User\source\repos\Database1\bin\Debug\net6.0\Database1.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Elapsed 00:00.771 ==========
